@@ -31,4 +31,5 @@ I'm eager to connect with fellow data enthusiasts, professionals, and mentors. L
 Check out my GitHub repositories to see some of my data analysis and machine learning projects. Your feedback is highly appreciated!
 
 📩 Contact: +91 9360598517
+
 📧 Email: subashsb24@gmail.com
